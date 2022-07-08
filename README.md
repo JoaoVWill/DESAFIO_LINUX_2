@@ -1,4 +1,4 @@
-# DESAFIO_TAR
+# DESAFIO_LINUX_2
 ### _Atividade_:
 
 - Criar um usuário no Linux (conta/grupo) e definir uma senha
